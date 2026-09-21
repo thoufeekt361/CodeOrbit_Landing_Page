@@ -4,7 +4,7 @@ A modern and responsive **landing page** for a sample productivity platform call
 
 ## 🚀 Live Demo
 
-**Live Demo:** Add your deployed website URL here
+**Live Demo:** https://code-orbit-landing-page-qw586h1vf-t5-6c5f.vercel.app
 
 ## 📌 Project Overview
 
